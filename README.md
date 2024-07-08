@@ -2,7 +2,7 @@
 
 This project demonstrates how to create an animated to-do list application using Reanimated 2 in a React Native app with Expo. The app allows users to add, remove, and reorder tasks with smooth animations.
 
-### 👀 You can find the tutoral blog here! => 🔗 [Animated To-Do List with Reanimated 2 and Expo](https://)
+### 👀 You can find the tutoral blog here! => 🔗 [Animated To-Do List with Reanimated 2 and Expo]([https://](https://devtoys.io/2024/07/08/enhancing-your-react-native-app-with-reanimated-2-using-expo/))
 
 ## Prerequisites
 
