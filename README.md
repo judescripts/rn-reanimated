@@ -198,6 +198,8 @@ To run the project, use the following commands based on the platform you want to
   ```bash
   yarn android
   ```
+
+### 🫠 Now try to add tasks and swipe to the left to delete and you'll see some cool animations!🧙🏻‍♂️
   
 ---
  
